@@ -276,9 +276,6 @@ onShareTimeline()
 SKILL.md
 ```
 
-`SKILL.md` 是 WorkBuddy Skill 的实际定义文件。上传到 SkillHub 时，通常上传这个文件即可。
-
-如果你想同步到 GitHub，可以把本 README 和 `SKILL.md` 一起放进仓库。
 
 ---
 
